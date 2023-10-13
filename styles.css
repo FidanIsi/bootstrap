@@ -1,0 +1,110 @@
+.stick1 {
+  width: 30px;
+  height: 2px;
+  border-radius: 10px;
+}
+
+.stick2 {
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+}
+
+.stick3 {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.stick4 {
+  width: 35px;
+  height: 3px;
+  border-radius: 10px;
+}
+
+.stick5 {
+  width: 50px;
+  height: 8px;
+  border-radius: 15px;
+}
+
+.color1 {
+  background-color: rgb(29, 201, 161);
+  color: rgb(29, 201, 161);
+}
+
+.color2 {
+  background-color: rgb(16, 43, 64);
+  color: rgb(16, 43, 64);
+}
+
+.color3 {
+  background-color: rgb(207, 217, 227);
+  color: rgb(207, 217, 227);
+}
+
+.banner {
+  width: auto;
+  height: 350px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.pic {
+  width: 160px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.absolute-pic-container {
+  position: absolute;
+}
+
+.custom-card {
+  border-radius: 20px !important;
+  background-color: transparent !important;
+  border: 2px solid rgb(16, 43, 64);
+  padding: 0 !important;
+  max-width: 32% !important;
+  margin-bottom: 20px;
+}
+
+.custom-card-footer {
+  background-color: transparent !important;
+  border-top: 2px solid rgb(16, 43, 64);
+}
+
+.custom-card-el {
+  height: 150px !important;
+}
+
+.square1 {
+  width: 250px;
+  height: 250px;
+}
+
+.pattern {
+  min-height: 200px;
+}
+
+#stripes10 {
+  width: 250px;
+  height: 250px;
+  background-image: repeating-linear-gradient(145deg, rgb(29, 201, 161) , rgb(29, 201, 161) 7.5px, rgb(16, 43, 64) 7.5px, rgb(16, 43, 64) 15px) ;
+}
+
+.round1 {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+}
+
+.round2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
